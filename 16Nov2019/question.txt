@@ -1,0 +1,5 @@
+1.WAP to calculate the area of rectangle.
+2.WAP to calculate the perimeter of rectangle.
+3.WAP to calculate the area of square.
+4.WAP to calculate the perimeter of Square.
+5.WAP to check whether number is divisible by 9 or not.
